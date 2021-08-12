@@ -985,6 +985,7 @@
     "gini": 33.7,
     "timezones": {
       "UTC": "UTC+04:00",
+      "zoneName": "Asia/Baku",
       "gmtOffset": 14400,
       "timestamp": 1628596787
     },
@@ -12366,7 +12367,8 @@
     "area": 10908,
     "gini": null,
     "timezones": {
-      "UTC": "UTC+01:00"
+      "UTC": "UTC+01:00",
+      "zoneName":"Europe/Belgrade"
     },
     "borders": ["ALB", "MKD", "MNE", "SRB"],
     "nativeName": "Republika e Kosovës",
