@@ -6741,7 +6741,10 @@
     "area": 412,
     "gini": null,
     "timezones": {
-      "UTC": "UTC+05:00"
+      "UTC": "UTC+05:00",
+      "zoneName": "Antarctica/Mawson",
+      "gmtOffset": 18000,
+      "timestamp": 1628600387
     },
     "borders": [],
     "nativeName": "Heard Island and McDonald Islands",
@@ -12368,7 +12371,7 @@
     "gini": null,
     "timezones": {
       "UTC": "UTC+01:00",
-      "zoneName":"Europe/Belgrade"
+      "zoneName": "Europe/Belgrade"
     },
     "borders": ["ALB", "MKD", "MNE", "SRB"],
     "nativeName": "Republika e Kosovës",
