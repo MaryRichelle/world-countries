@@ -16290,26 +16290,13 @@
     "demonym": "American",
     "area": 9629091,
     "gini": 48,
-    "timezones": [
-      {
-        "UTC": "UTC-12:00",
-        "zoneName": "America/New_York",
-        "gmtOffset": -14400,
-        "timestamp": 1628567987
-      },
-      {
-        "UTC": "UTC-11:00",
-        "zoneName": "America/Anchorage",
-        "gmtOffset": -28800,
-        "timestamp": 1628553587
-      },
-      {
-        "UTC": "UTC-10:00",
-        "zoneName": "America/Chicago",
-        "gmtOffset": -18000,
-        "timestamp": 1628564387
-      }
-    ],
+    "timezones": {
+      "UTC": "UTC-12:00",
+      "zoneName": "America/New_York",
+      "gmtOffset": -14400,
+      "timestamp": 1628567987
+    },
+
     "borders": ["CAN", "MEX"],
     "nativeName": "United States",
     "numericCode": "840",
