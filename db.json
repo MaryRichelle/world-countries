@@ -16275,68 +16275,7 @@
     ],
     "cioc": "GBR"
   },
-  {
-    "name": "Northern Ireland",
-    "topLevelDomain": [".uk"],
-    "alpha2Code": "GB",
-    "alpha3Code": "GBR",
-    "callingCodes": ["44"],
-    "capital": "Belfast",
-    "altSpellings": ["GB", "UK", "Great Britain"],
-    "region": "Europe",
-    "subregion": "Northern Europe",
-    "population": 65110000,
-    "latlng": [54, 6.4],
-    "demonym": "British",
-    "area": 242900,
-    "gini": 34,
-    "timezones": {
-      "UTC": "UTC-08:00",
-      "zoneName": "Europe/London",
-      "gmtOffset": 3600,
-      "timestamp": 1628585987
-    },
-    "borders": ["IRL"],
-    "nativeName": "United Kingdom",
-    "numericCode": "826",
-    "currencies": [
-      {
-        "code": "GBP",
-        "name": "British pound",
-        "symbol": "£"
-      }
-    ],
-    "languages": [
-      {
-        "iso639_1": "en",
-        "iso639_2": "eng",
-        "name": "English",
-        "nativeName": "English"
-      }
-    ],
-    "translations": {
-      "de": "Vereinigtes Königreich",
-      "es": "Reino Unido",
-      "fr": "Royaume-Uni",
-      "ja": "イギリス",
-      "it": "Regno Unito",
-      "br": "Reino Unido",
-      "pt": "Reino Unido",
-      "nl": "Verenigd Koninkrijk",
-      "hr": "Ujedinjeno Kraljevstvo",
-      "fa": "بریتانیای کبیر و ایرلند شمالی"
-    },
-    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg",
-    "regionalBlocs": [
-      {
-        "acronym": "EU",
-        "name": "European Union",
-        "otherAcronyms": [],
-        "otherNames": []
-      }
-    ],
-    "cioc": "GBR"
-  },
+
   {
     "name": "United States of America",
     "topLevelDomain": [".us"],
